@@ -38,3 +38,8 @@ p{
 .holiday{
     color: red;
 }
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
